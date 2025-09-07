@@ -1,7 +1,8 @@
 
 ----------------------------------------------- Description ----------------------------------------------------
 
-The server is based on the buiding an instance from the inherited class BaseHTTPRequesHandler. It has a basic GET reques for displaying some text on the screen.
+The server is based on the buiding an instance from the inherited class BaseHTTPRequesHandler. 
+It has a basic GET reques for displaying some text on the screen.
 
 ---------------------------------------------- Starting the server ---------------------------------------------
 
