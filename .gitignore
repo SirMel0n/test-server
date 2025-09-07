@@ -1,0 +1,22 @@
+#Ignore Cmake cache
+CMakeCache.txt
+CMakeFiles/
+
+#Ignore Qt Creator local settings
+
+*.user
+*.pro.user
+*.qbs.user
+*.pro.user.*
+*qbs.user.*
+
+
+Makefile
+
+*.obj
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.exe
