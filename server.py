@@ -15,7 +15,7 @@ class myServer(BaseHTTPRequestHandler):
         self.end_headers()
         
         #write text to be displayed on the web page
-        self.wfile.write('<h1> Hello MUM </h1>'.encode())
+        self.wfile.write('<h1> Hello World </h1>'.encode())
 
         
 # object which take a port and server's name
